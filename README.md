@@ -40,16 +40,5 @@ Titulaire d'une **Licence en Sécurité des Systèmes et Réseaux Informatiques*
 - 💼 [LinkedIn](https://www.linkedin.com/in/ismael-alao-78828a419/)
 - 📧 ismaelalao6@gmail.com
 
-## 📊 Statistiques GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismaelalao65&show_icons=true&theme=default&hide_title=false" alt="Statistiques GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelalao65&layout=compact&theme=default" alt="Langages les plus utilisés" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=ismaelalao65&theme=default" alt="Streak GitHub" height="165" />
-</p>
-
 ---
 ⭐ *Ce profil évoluera au fil de mes apprentissages et de mes projets — n'hésitez pas à revenir de temps en temps !*
