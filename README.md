@@ -1,16 +1,55 @@
-## Hi there 👋
+# Bonjour, je suis Ismael ALAO 👋
 
-<!--
-**ismaelalao65/ismaelalao65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Titulaire d'une **Licence en Sécurité des Systèmes et Réseaux Informatiques**, je démarre mon parcours professionnel dans le domaine de la **sécurité réseau**.
 
-Here are some ideas to get you started:
+## 🎯 À propos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Passionné par la protection des infrastructures et des systèmes d'information
+- 🌐 En cours de spécialisation en **réseaux** (routage, sécurisation des infrastructures, supervision)
+- 📚 Actuellement en apprentissage continu — ouvert aux opportunités et aux collaborations
+- 🤝 Toujours partant pour échanger avec la communauté cybersécurité / IT
+
+## 🛠️ Compétences
+
+**Réseaux & Sécurité**
+- Administration réseau
+- Sécurisation des systèmes et infrastructures
+- Notions de pare-feu, VPN, supervision réseau
+
+**Cybersécurité**
+- Pentest
+
+**Compétences supplémentaires**
+- Développement Web No-Code
+
+**Outils**
+- *(à compléter au fur et à mesure de tes apprentissages : Wireshark, Cisco Packet Tracer, Linux, etc.)*
+
+## 💼 Portfolio en ligne
+
+- [portofolioismaelalao.vercel.app](https://portofolioismaelalao.vercel.app/)
+
+## 📈 Objectifs
+
+- Approfondir mes compétences en réseaux et sécurité des infrastructures
+- Obtenir des certifications reconnues (ex : CCNA, CompTIA Security+, etc.)
+- Contribuer à des projets open source liés à la cybersécurité
+
+## 📫 Me contacter
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ismael-alao-78828a419/)
+- 📧 ismaelalao6@gmail.com
+
+## 📊 Statistiques GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismaelalao65&show_icons=true&theme=default&hide_title=false" alt="Statistiques GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelalao65&layout=compact&theme=default" alt="Langages les plus utilisés" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelalao65&theme=default" alt="Streak GitHub" height="165" />
+</p>
+
+---
+⭐ *Ce profil évoluera au fil de mes apprentissages et de mes projets — n'hésitez pas à revenir de temps en temps !*
