@@ -48,7 +48,7 @@ Titulaire d'une **Licence en Sécurité des Systèmes et Réseaux Informatiques*
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelalao65&theme=default" alt="Streak GitHub" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=ismaelalao65&theme=default" alt="Streak GitHub" height="165" />
 </p>
 
 ---
