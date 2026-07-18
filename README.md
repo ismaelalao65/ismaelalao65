@@ -25,6 +25,10 @@ Titulaire d'une **Licence en Sécurité des Systèmes et Réseaux Informatiques*
 **Outils**
 - *(à compléter au fur et à mesure de tes apprentissages : Wireshark, Cisco Packet Tracer, Linux, etc.)*
 
+## 🚀 Projets
+
+- 🧪 **[mon-parcours-cybersecu](https://github.com/ismaelalao65/mon-parcours-cybersecu)** — Documentation de mes labos pratiques (mise en place d'un environnement de pentest avec Kali Linux, Metasploitable2, Ubuntu Server et Windows Server)
+
 ## 💼 Portfolio en ligne
 
 - [portofolioismaelalao.vercel.app](https://portofolioismaelalao.vercel.app/)
