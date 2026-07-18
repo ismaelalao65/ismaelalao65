@@ -23,7 +23,10 @@ Titulaire d'une **Licence en Sécurité des Systèmes et Réseaux Informatiques*
 - Développement Web No-Code
 
 **Outils**
-- *(à compléter au fur et à mesure de tes apprentissages : Wireshark, Cisco Packet Tracer, Linux, etc.)*
+- VMware Workstation Pro (virtualisation)
+- Kali Linux
+- Nmap
+- *(liste amenée à s'enrichir : Wireshark, Cisco Packet Tracer, Metasploit, etc.)*
 
 ## 🚀 Projets
 
